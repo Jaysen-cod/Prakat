@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319274588694",
+    "firebase_url": "https://prakat-ba690.firebaseio.com",
+    "project_id": "prakat-ba690",
+    "storage_bucket": "prakat-ba690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319274588694:android:1ead6bf52c0d401fc4f337",
+        "android_client_info": {
+          "package_name": "com.example.prakat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319274588694-c988mqgdkn3nsmpqflc4tl87rk67hm5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prakat",
+            "certificate_hash": "379239faf7e05a0422c6fc278ebcf6f1e7ab1d36"
+          }
+        },
+        {
+          "client_id": "319274588694-7mprsiothlfvgd67pmqukjf51f4ptd28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKN2B305p4wipmTvoOSNTFGXnsdCBje8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319274588694-7mprsiothlfvgd67pmqukjf51f4ptd28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
